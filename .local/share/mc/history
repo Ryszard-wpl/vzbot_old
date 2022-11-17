@@ -1,0 +1,28 @@
+[input-def]
+0=*
+
+[cmdline]
+0=OA
+1=[<0;40;21M
+2=
+
+[input2]
+0=printer_conf_SKR14,cfg
+1=printer.cfg
+2=/home/pi/klipper_config/
+3=/home/pi/
+
+[Dir Hist New Right Panel]
+0=/home
+1=/home/pi/klipper_config
+2=/home/pi
+
+[Dir Hist New Left Panel]
+0=/boot
+1=/home
+2=/
+3=/tmp
+4=/home/pi/.config
+5=/home/pi/klipper_config/.git
+6=/home/pi
+7=/home/pi/klipper_config
